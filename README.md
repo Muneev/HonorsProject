@@ -1,2 +1,2 @@
-# HonorsProject
+# Project
 Extracting tweets textsentimental analysis
